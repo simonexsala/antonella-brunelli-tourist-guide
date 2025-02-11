@@ -1,5 +1,4 @@
 ---
-import ThemeToggleButton from './ThemeToggleButton.svelte';
 const { current = '' } = Astro.props;
 ---
 
@@ -9,9 +8,19 @@ const { current = '' } = Astro.props;
     display: flex;
     flex: 1;
     font-family: var(--font-family-sans);
-    font-weight: 700;
+    font-weight: 800;
     justify-content: flex-end;
-    text-transform: uppercase;
+    width: 100%;
+  }
+
+  @media (max-width: 600px) {
+    nav {
+      display: flex;
+      justify-content: center;
+    }
+    a {
+      display: flex;
+    }
   }
 
   a {
@@ -20,19 +29,16 @@ const { current = '' } = Astro.props;
     padding: 10px 5px;
     display: block;
     position: relative;
-    margin-left: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
     min-width: 70px;
     text-align: center;
-  }
-
-  a:not(.selected) {
-    opacity: 0.7;
   }
 
   a::before {
     content: '';
     position: absolute;
-    transition: transform .3s ease;
+    transition: transform .5s ease;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -44,29 +50,16 @@ const { current = '' } = Astro.props;
   a:hover::before,
   .selected::before {
     transform: scaleX(1);
-  }
 
+  }
   .selected::before {
     background: var(--primary-color);
   }
-
-  .theme-toggle-container {
-    width: 75px;
-  }
-
-  @media screen and (max-width: 520px) {
-    .theme-toggle-container {
-      margin-right: 1em;
-    }
-  }
-
 </style>
 
 <nav>
-  <a class={current === "" ? "selected" : ""} href='/'>home</a>
-  <a class={current === "about" ? "selected" : ""} href='/about'>about</a>
-  <a class={current === "blog" ? "selected" : ""} href='/blog'>blog</a>
-  <div class="theme-toggle-container">
-    <ThemeToggleButton client:load />
-  </div>
+  <a class={current === "" ? "selected" : ""} href='/'>Home</a>
+  <a class={current === "about" ? "selected" : ""} href='/about'>About</a>
+  <a class={current === "blog" ? "selected" : ""} href='/blog'>Blog</a>
+  <a class={current === "tours" ? "selected" : ""} href='/tours'>Tours</a>
 </nav>
