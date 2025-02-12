@@ -18,12 +18,13 @@ allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.publishDate).valueOf()
         <div>
           { index !== 0 && <hr /> }
           <div class="post-item">
+            <img src={post.frontmatter.image} alt={post.frontmatter.title} />
             <h2>
               <a href={href}>{post.frontmatter.title}</a>
             </h2>
             <p>{post.frontmatter.description}</p>
             <div class="post-item-footer">
-              <span class="post-item-date">— {post.frontmatter.publishDate}</span>
+              <span class="post-item-date">{post.frontmatter.publishDate}</span>
             </div>
           </div>
         </div>
@@ -33,6 +34,9 @@ allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.publishDate).valueOf()
 </BaseLayout>
 
 <style>
+  a {
+    font-size: 1.3em;
+  }
   h2,
   .post-item-footer {
     font-family: var(--font-family-sans);
@@ -48,5 +52,9 @@ allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.publishDate).valueOf()
 
   hr {
     margin: 60px auto;
+    color: #fefefe;
+  }
+  img {
+    border-radius: 20px;
   }
 </style>
