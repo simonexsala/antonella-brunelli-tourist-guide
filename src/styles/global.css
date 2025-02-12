@@ -37,13 +37,14 @@ body {
   
   /* Apply the background directly */
   background-image: url("/assets/background.jpg");
-  background-size: cover;
+  background-size: 100dvh auto;
   background-position: left top;
   background-attachment: fixed; /* This ensures the background stays fixed */
 }
+
 @media (max-width: 768px) {
   body {
-    background-size: 100dvh; /* Adjust for dynamic height on mobile */
+    background-size: cover; /* Use cover only on larger screens */
   }
 }
 
