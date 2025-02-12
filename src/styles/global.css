@@ -37,7 +37,7 @@ body {
   
   /* Apply the background directly */
   background-image: url("/assets/background.jpg");
-  background-size: 100dvh auto;
+  background-size: 100svh auto;
   background-position: left top;
   background-attachment: fixed; /* This ensures the background stays fixed */
 }
