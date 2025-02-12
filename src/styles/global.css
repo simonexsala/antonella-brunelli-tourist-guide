@@ -35,7 +35,7 @@ body {
   background-color: #1b1b1b; /* Fallback color */
   
   /* Apply the background directly */
-  background-image: url("/assets/background.webp");
+  background-image: url("/assets/background.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed; /* This ensures the background stays fixed */
