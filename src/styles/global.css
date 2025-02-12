@@ -39,7 +39,12 @@ body {
   background-image: url("/assets/background.jpg");
   background-size: cover;
   background-position: left top;
-  position: fixed; /* This ensures the background stays fixed */
+  background-attachment: fixed; /* This ensures the background stays fixed */
+}
+@media (max-width: 768px) {
+  body {
+    background-size: 100dvh; /* Adjust for dynamic height on mobile */
+  }
 }
 
 body::after {
