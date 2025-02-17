@@ -1,7 +1,7 @@
 ---
 title: Milan, Roman, Early Christian, and Romanesque Ages
 publishDate: 19 Feb 2025
-description: Step back in time and explore Milan's rich Roman, Early Christian, and Romanesque history with a guided tour of its iconic basilicas: Sant'Ambrogio, San Lorenzo, and Sant'Eustorgio.
+description: Step back in time and explore Milan's rich Roman, Early Christian, and Romanesque history with a guided tour of the iconic basilicas of Sant'Ambrogio, San Lorenzo and Sant'Eustorgio.
 image: "/assets/tours/romancemilan.jpg"
 ---
 
