@@ -9,7 +9,7 @@
 
 html {
   overflow-y: scroll;
-  height: 100lvh;
+  height: 100vh;
   margin: 0;
   scroll-behavior: smooth;
 }
