@@ -1,7 +1,7 @@
 ---
 title: Verona, From the Castle to San Zeno District
 publishDate: 19 Feb 2025
-description: Discover the charm of Verona with a guided tour from the historic **Castelvecchio** to the **Chiesa di San Fermo Maggiore**, exploring the city's medieval and religious heritage.
+description: Discover the charm of Verona with a guided tour from the historic Castelvecchio to the Chiesa di San Fermo Maggiore, exploring the city's medieval and religious heritage.
 image: "/assets/tours/sanzeno.jpg"
 ---
 
