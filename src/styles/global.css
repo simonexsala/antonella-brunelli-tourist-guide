@@ -34,12 +34,20 @@ body {
   line-height: 1.6;
   color: var(--text-main);
   background-color: #1b1b1b; /* Fallback color */
-  
-  /* Apply the background directly */
+  position: relative; /* Needed for absolute positioning of the pseudo-element */
+}
+
+body::before {
+  content: "";
+  position: fixed; /* Fixed to the viewport */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   background-image: url("/assets/background.jpg");
   background-position-x: left;
   background-size: cover;
-  background-attachment: fixed; /* This ensures the background stays fixed */
+  z-index: -1; /* Place behind the body content */
 }
 
 body::after {
