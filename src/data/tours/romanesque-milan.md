@@ -10,7 +10,7 @@ image: "/assets/tours/romancemilan.jpg"
 Embark on a historical journey through **Milan's Roman, Early Christian, and Romanesque past** with a guided tour of three of the city's most important basilicas: **Sant'Ambrogio**, **San Lorenzo**, and **Sant'Eustorgio**.
 
 ## **Tour Highlights**
-- Visit the **Basilica of Sant'Ambrogio**, one of the oldest and most revered churches in Milan, founded by Saint Ambrose and a prime example of early Christian architecture.
+- Visit the **Basilica of Sant'Ambrogio** the saint patron of Milan, one of the oldest and most revered churches in Milan, founded following Saint Ambrose's will in 397 a.D. and a prime example of early Christian architecture.
 - Explore the **Basilica of San Lorenzo**, a stunning example of late Roman architecture, known for its ancient columns and historical significance.
 - Discover the **Basilica of Sant'Eustorgio**, a masterpiece of Romanesque architecture, and learn about its crucial role in Milan's Christian history.
 

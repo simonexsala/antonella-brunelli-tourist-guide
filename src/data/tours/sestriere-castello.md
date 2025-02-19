@@ -10,7 +10,7 @@ image: "/assets/tours/schiavoni.jpg"
 Embark on a fascinating journey through the **Sestiere di Castello**, one of the most historic and charming districts of Venice. This 2-hour guided tour takes you to two remarkable sites:
 
 - **Scuola di San Giorgio degli Schiavoni**: A beautiful building renowned for its stunning artworks and rich history, showcasing masterpieces by renowned Venetian artists.
-- **Antico Monastero and Chiesa di San Zaccaria**: Discover the peaceful ambiance of this ancient monastery and its stunning church, filled with centuries of history and captivating art.
+- **Antico Monastero and Chiesa di San Zaccaria**: Discover the peaceful ambiance of this ancient female monastery and its stunning church, filled with centuries of history and captivating art.
 
 - **Duration**: 2 hours  
 - **Cost**: €250  

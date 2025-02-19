@@ -4,6 +4,8 @@ publishDate: 12 Feb 2025
 description: A short introductory note.
 ---
 
-Hello and welcome! I’m Antonella, and I’m excited to guide you through some of Italy’s most breathtaking and culturally rich destinations. With over 30 years of experience in tourism, I’ve had the privilege of exploring cities like Milan, Lake Como, Verona, and Venice, each of which holds a special place in my heart. My journey as a guide has also been shaped by a transformative experience in Ireland, where I discovered a passion for gardening that led me to study horticulture in County Kilkenny. 
+Following the Italian Law No. 190 of December 13, 2023, pursuant to Article 13, paragraph 1, I have transitioned from being a local tour guide to a national tour guide. I am now officially registered in the list of Italian national tour guides with card number 03000870.
 
-I believe a true guide’s role is more than just showing landmarks—it’s about connecting you with the essence of a place. Whether through the art, history, local flavors, or even the scent of a garden, I look forward to sharing these rich experiences with you. Let’s explore Italy together!
+Thanks to my previous experience, I have chosen to operate my professional activities in the following locations: Verona, Venice, Soave, Monza, Lake Como, and Milan.
+
+I have designed unique itineraries that I now present and offer as a National Tour Guide, providing engaging and insightful experiences.
