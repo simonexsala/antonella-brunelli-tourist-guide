@@ -10,7 +10,12 @@ const permalink = Astro.site.href;
   <div class="home-container">
     <div class="home-copy">
       <h1>Hello, I am Antonella</h1>
-      <p>I've been working as a tourist guide for the past 30 years.</p>
+      <p>
+        <span class="cursive">I, who have the world as my homeland, as fish have the sea </span>— Dante Alighieri
+      </p>
+      <p>
+        Born in Milan, I worked as a tourist guide there before continuing in Ireland. Now, with my journey leading east, I offer guided tours in Verona, Soave, and Venice—the queen of the seas and commerce.
+      </p>
     </div>
 
     <div class="hero-image-container">
@@ -47,6 +52,11 @@ const permalink = Astro.site.href;
   .home-copy p {
     font-size: 1.4em;
   }
+
+.cursive {
+  font-family: 'Merriweather', cursive;
+  font-style: italic;
+}
 
   .hero-image-container {
     margin: 0 1em;

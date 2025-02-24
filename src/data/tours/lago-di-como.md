@@ -16,7 +16,7 @@ Experience the stunning spring bloom at **Lake Como** with a guided tour of the 
 - **Duration**: 3 hours  
 - **Cost**: €200 (maximum 10 participants)  
 - **Note**: Ferry from/to Cadenabbia  
-- **Available**: Starting in April  
+- **Available**: From April to September
 
 This tour provides a perfect opportunity to enjoy the stunning floral beauty of Lake Como while immersing yourself in its historical and cultural significance.
 

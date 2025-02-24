@@ -13,7 +13,7 @@ Discover the charm and history of **Verona** with two unforgettable guided tours
 Take a scenic stroll along the **Adige River**, crossing its iconic bridges and soaking in the beautiful views. The tour will lead you to the **Chiesa di San Fermo Maggiore**, where you’ll explore its fascinating interior, steeped in history and art.
 
 - **Duration**: 2 hours 30 minutes  
-- **Cost**: €200 (maximum 8 people)
+- **Cost**: €140 (maximum 8 people)
 
 ## **2. Verona Historic Center Tour**  
 Explore the heart of Verona with a guided tour through its historic center. Visit the **Arena**, **Piazza Erbe**, **Piazza dei Signori**, the **Arche Scaligere**, and the legendary **Casa di Giulietta**, all while learning about the city’s fascinating history and culture.

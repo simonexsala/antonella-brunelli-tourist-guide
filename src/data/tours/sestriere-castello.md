@@ -13,6 +13,6 @@ Embark on a fascinating journey through the **Sestiere di Castello**, one of the
 - **Antico Monastero and Chiesa di San Zaccaria**: Discover the peaceful ambiance of this ancient female monastery and its stunning church, filled with centuries of history and captivating art.
 
 - **Duration**: 2 hours  
-- **Cost**: €250  
+- **Cost**: €200  
 
 This immersive experience will give you a deeper understanding of Venice’s rich religious and artistic heritage. Let me guide you through these extraordinary locations!

@@ -15,7 +15,7 @@ Embark on a historical journey through **Milan's Roman, Early Christian, and Rom
 - Discover the **Basilica of Sant'Eustorgio**, a masterpiece of Romanesque architecture, and learn about its crucial role in Milan's Christian history.
 
 - **Duration**: 3 hours  
-- **Cost**: €300 (maximum 6 participants)  
+- **Cost**: €250 (maximum 6 participants)  
 
 This tour offers a deep dive into Milan's religious and architectural history, showcasing the beauty and significance of its ancient basilicas.
 

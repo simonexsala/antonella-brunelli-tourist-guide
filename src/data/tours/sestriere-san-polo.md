@@ -14,6 +14,6 @@ Explore the historical treasures of the **Sestiere di San Polo** in Venice with 
 - Explore the **Scuola Grande di San Rocco**, known for its magnificent collection of paintings by Tintoretto and its impressive architectural details.
 
 - **Duration**: 2 hours  
-- **Cost**: €250  
+- **Cost**: €200  
 
 This tour offers a deep dive into Venice's artistic and architectural heritage, providing insight into the masterpieces housed in these historic sites.

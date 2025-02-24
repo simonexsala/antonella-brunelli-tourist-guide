@@ -14,7 +14,7 @@ Experience the rich history of **Verona** with a guided tour that takes you from
 - Visit the **Chiesa di San Fermo Maggiore**, a remarkable church that combines both Romanesque and Gothic architectural styles, home to significant artworks and historical treasures.
 
 - **Duration**: 2 hours  
-- **Cost**: €180 (maximum 10 participants)  
+- **Cost**: €140 (maximum 10 participants)  
 
 This tour offers a perfect blend of Verona's history, architecture, and culture, highlighting its medieval past and religious significance.
 
