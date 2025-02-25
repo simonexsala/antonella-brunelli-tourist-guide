@@ -7,7 +7,7 @@ import rehypeExternalLinks from 'rehype-external-links'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'www.antonellatours.it',
+  site: 'https://www.antonellatours.it/',
   integrations: [mdx(), svelte()],
   markdown: {
     shikiConfig: {
