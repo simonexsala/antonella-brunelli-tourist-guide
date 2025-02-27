@@ -4,7 +4,7 @@ publishDate: 12 Feb 2025
 description: The Corno Ducal and the many extravagant ways of the venetian Doge.
 ---
 
-![doge](./public/assets/blog/doge.jpg)
+![doge](/assets/blog/doge.jpg)
 
 The corno ducale (ducal horn) was a tall, horn-shaped hat that immediately distinguished the Doge from all other Venetian officials. Made of stiffened fabric and typically covered in gold cloth or brocade, this ceremonial crown featured a pointed design that curved slightly forward at the top. The shape is thought to have evolved from Byzantine imperial headwear, symbolizing Venice's historical connections to the Eastern Roman Empire.
 
