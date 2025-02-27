@@ -9,24 +9,21 @@
 
 html {
   overflow-y: scroll;
-  height: 100lvh;
+  height: 100%;
   margin: 0;
   scroll-behavior: smooth;
 }
-
 @supports (scrollbar-gutter: stable) {
   html {
     overflow-y: auto;
     scrollbar-gutter: stable;
   }
 }
-
 *,
 *:before,
 *:after {
   box-sizing: border-box;
 }
-
 body {
   margin: 0;
   font-family: var(--font-family-serif);
@@ -34,25 +31,39 @@ body {
   line-height: 1.6;
   color: var(--text-main);
   background-color: #1b1b1b; /* Fallback color */
-  height: 100lvh; 
-  
-  /* Apply the background directly */
-  background-image: url("/assets/background.jpg");
-  background-position-x: left;
-  background-size: cover;
-  background-attachment: fixed; /* This ensures the background stays fixed */
+  min-height: 100%;
+  position: relative; /* Added for proper stacking context */
 }
 
+/* Separated background to its own pseudo-element for better control */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("/assets/background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: -2; /* Below the overlay */
+}
+
+/* Overlay */
 body::after {
   content: '';
-  position: fixed; /* Change to fixed to keep it in place */
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
   background-color: rgba(0, 0, 0, 0.50); /* Black overlay */
-  z-index: -1; /* Ensures it's behind content */
+  z-index: -1;
+  pointer-events: none;
 }
+
+/* No mobile-specific overrides for background-attachment */
 
 
 h1,
