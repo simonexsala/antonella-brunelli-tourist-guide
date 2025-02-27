@@ -1,13 +1,13 @@
 ---
 title: Tours in Verona 
 publishDate: 28 Feb 2025
-description: Discover the charm and history of Verona with two unforgettable guided tours that offer an immersive experience of this iconic Italian city.
+description: Discover the charm and history of Verona with unforgettable guided tours that offer an immersive experience of this iconic Italian city.
 image: "/assets/tours/verona.jpg"
 ---
 
 # **Guided Tours in Verona**
 
-Discover the charm and history of **Verona** with two unforgettable guided tours that offer an immersive experience of this iconic Italian city.
+Discover the charm and history of **Verona** with unforgettable guided tours that offer an immersive experience of this iconic Italian city.
 
 ## **1. Passeggiata Lung'Adige Tour**  
 Take a scenic stroll along the **Adige River**, crossing its iconic bridges and soaking in the beautiful views. The tour will lead you to the **Chiesa di San Fermo Maggiore**, where you’ll explore its fascinating interior, steeped in history and art.
