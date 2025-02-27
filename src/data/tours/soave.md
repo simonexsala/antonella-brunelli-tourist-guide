@@ -7,7 +7,7 @@ image: "/assets/tours/soave.jpg"
 
 # **Guided Tour of Soave**
 
-Discover the medieval charm of **Soave**, a beautiful town known for its history, architecture, and scenic surroundings.
+Discover the medieval charm of **Soave**, a beautiful town known for its white wine and scenic surroundings.
 
 ## **Tour Highlights**  
 Enjoy a guided tour of the charming **Soave village**, exploring its historic **churches**, magnificent **palaces**, well-preserved **medieval walls**, and the impressive **Castle** that overlooks the town.
@@ -17,3 +17,4 @@ Enjoy a guided tour of the charming **Soave village**, exploring its historic **
 
 This tour offers a fascinating glimpse into the rich history of Soave, taking you through centuries of culture and architecture.
 
+Entrance fees not included.

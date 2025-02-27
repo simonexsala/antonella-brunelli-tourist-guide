@@ -17,7 +17,9 @@ Discover the historic and architectural wonders of **Milan** with a guided tour 
 - End the tour in **Piazza della Scala**, home to the famous Teatro alla Scala, a symbol of Milan’s rich cultural heritage.
 
 - **Duration**: 2 hours and 30 minutes  
-- **Cost**: €250 (maximum 6 participants)  
+- **Cost**: €200 (maximum 6 participants)  
 
 This tour will immerse you in Milan's historical and cultural treasures, offering an unforgettable experience of the city's most iconic landmarks.
 
+
+Entrance fees not included.

@@ -17,3 +17,6 @@ Explore the historical treasures of the **Sestiere di San Polo** in Venice with 
 - **Cost**: €200  
 
 This tour offers a deep dive into Venice's artistic and architectural heritage, providing insight into the masterpieces housed in these historic sites.
+
+
+Entrance fees not included. 

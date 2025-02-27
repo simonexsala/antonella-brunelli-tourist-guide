@@ -1,6 +1,6 @@
 ---
 title: Tours in Venice 
-publishDate: 14 Feb 2025
+publishDate: 27 Feb 2025
 description: Discover the beauty of Venice with guided tours of St. Mark’s Basilica and the Doge’s Palace, each lasting 1.5 hours. Explore art, history, and architecture with an expert guide. Both tours can be combined for a deeper experience.
 image: "/assets/tours/venice.jpg"
 ---
